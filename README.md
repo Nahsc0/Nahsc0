@@ -11,42 +11,32 @@
 ---
 ## 👯 About Me
 
-I am Yusuf Nasir Ahmad, a highly dedicated and passionate DevOps engineer, driven by a profound enthusiasm for autamation and data science. I believe that continuous improvement is the key to staying ahead, and I am constantly exploring innovative approaches to CI/CD autamtion to make it an indispensable aspect across various industries.
-
-My insatiable thirst for knowledge propels me to actively seek opportunities to expand my expertise and collaborate with like-minded DevOps and  enthusiasts. I firmly believe in the power of collaboration, and I am always open to learning from peers while generously sharing my own insights.
-
-With a strong foundation in cloud computing, DevOps, and data science, I am well-equipped to bring immense value to any project or organization. My skills and dedication are readily available for exciting gigs, job opportunities, contracts, and projects where I can make a significant impact.
-
-Feel free to reach out for professional collaborations or potential engagements.
+I'm Yusuf Nasir Ahmad, a devoted DevOps engineer with a passion for automation and data science. I believe in constant improvement and innovative CI/CD automation. I crave knowledge, seek collaborations, and share insights. With strong cloud, DevOps, and data science skills, I'm ready to contribute value to projects. Let's connect for exciting opportunities!
 
     
 ---
 
 ## 💬 Details
-- 🔭 I’m currently working on **DevSecOps**
-- 🌱 I’m currently or looking forward to learning **API, CI/CD & Cloud Security**
-- 👨‍💻 All of my projects are available at [github.com/abdulmalik-devs](github.com/abdulmalik-devs)
-- 💬 Ask me about **DevOps and Security**
-- ⚡ Fun fact **DevOps and security walk into a bar. The bartender says, 'Sorry, we don't serve your kind here.' DevOps and security reply, 'That's okay, we'll just automate our own drinks and secure the bar's entrance while we're at it!**
+- 🔭 I’m currently working on **CloudHub**
+- 🌱 I’m currently or looking forward to learning **Docker, CI/CD & Kubernetes**
+- 👨‍💻 All of my projects are available at [github.com/nahsc0](github.com/nahsc0)
+- 💬 Ask me about **DevOps and Data Science**
+- ⚡ Fun fact **DevOps and data science have a friendly competition: DevOps boasts they can deploy code faster than ordering pizza, while data scientists claim they predict coffee shortages before they happen, keeping the code flowing and the ideas caffeinated!!**
 ---
 
 ## 🔭 Past Experience
 | Company                         | Role                 | Employment Type     | Month/Years           |
 | :---                            | :----:               | :---:               | :---:                 |  
 | GreyMatter                      | DevOps Engineer      | Internship          | March 2023 - Present  |
-| CyberSecured India              | Cybersecurity        | Internship          | April 2023 - June     |
-| Freelance                       | AWS DevOps Engineer  | Contract            | Nov. 2022  - Nov. 2022|
-| Linux Jobber                    | Django Developer     | Internship          | June 2022  - Aug 2022 |
-| NOC Centre                      | Network Technician   | Internship          | May 2019   - Aug 2019 |
+| Kaduna ICT Hub                  | Data Science         | Internship          | April 2022 - March 2023     |
 
----
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdulmalik-devs)](https://github.com/abdulmalik-devs/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nahsc0)](https://github.com/nahsc0/github-profile-trophy)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulmalik-devs&show_icons=true&locale=en&layout=compact" alt="abdulmalik-devs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahsc0&show_icons=true&locale=en&layout=compact" alt="nahsc0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulmalik-devs&show_icons=true&locale=en" alt="abdulmalik-devs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahsc0&show_icons=true&locale=en" alt="nahsc0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmalik-devs&" alt="abdulmalik-devs" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahsc0&" alt="nahsc0" /></p>
 
 ---
 
@@ -54,7 +44,7 @@ Feel free to reach out for professional collaborations or potential engagements.
 
 1. You can either fork or clone the repo
 2. Create a new repository
-3. Make the name of the repository your github username, fo example my username is `abdulmalik-devs` so my repository name will be `abdulmalik-devs`.
+3. Make the name of the repository your github username, fo example my username is `nahsc0` so my repository name will be `nahsc0`.
 4. After this, a README.md file is automatically created, you can either clone this new repo or edit on your browser
 5. Paste what you forked/cloned from my repository and edit to your own style.
 5. To add more style to your README, you can watch this video by [codeSTACKr](https://www.youtube.com/watch?v=n6d4KHSKqGk) for the Spotify and also the blogpost functionality.
