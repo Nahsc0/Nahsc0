@@ -1,7 +1,8 @@
 
 <h2> Hello fellow human! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-![WhatsApp Image 2023-08-09 at 5 49 47 PM](https://github.com/nahsc0/aws-serverless-s3-lamda-image-processing/assets/62616273/df54dc4f-214c-4c3e-8098-417e86aa165e)
+![tt](https://github.com/abdulmalik-devs/abdulmalik-devs/assets/106038656/6d545294-8773-42cb-8601-15234fbdcb5c)
+
 
 <img align='right' src="https://raw.githubusercontent.com/adefemi171/adefemi171/master/femiOctocat.png" width='200"'>
 
