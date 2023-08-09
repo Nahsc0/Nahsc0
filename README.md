@@ -4,20 +4,18 @@
 ![tt](https://github.com/abdulmalik-devs/abdulmalik-devs/assets/106038656/6d545294-8773-42cb-8601-15234fbdcb5c)
 
 
-<img align='right' src="https://raw.githubusercontent.com/adefemi171/adefemi171/master/femiOctocat.png" width='200"'>
+[![Twitter Badge](https://img.shields.io/badge/-@yusufnasir_ahmd-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yusufnasir_ahmd)](https://twitter.com/yusufnasir_ahmd) [![Linkedin Badge](https://img.shields.io/badge/-YusufNasirAhmad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nasir-ahmadd/)](https://www.linkedin.com/in/nasir-ahmadd/) [![Gmail Badge](https://img.shields.io/badge/-naseeryusuf07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naseeryusuf07@gmail.com)](mailto:naseeryusuf@gmail.com)
 
-[![Twitter Badge](https://img.shields.io/badge/-@cloudsec_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cloudsec_r)](https://twitter.com/cloudsec_) [![Linkedin Badge](https://img.shields.io/badge/-AbdulmalikOlolade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulmalik-ololade/)](https://www.linkedin.com/in/abdulmalik-ololade/) [![Gmail Badge](https://img.shields.io/badge/-malexmazzy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:malexmazzy@gmail.com)](mailto:malexmazzy@gmail.com)
-
-- Abdulmalik🌟 is here 👋💻, in this world to live to the fullest.
+- Nasir🌟 is here 👋💻, in this world to live to the fullest.
 
 ---
 ## 👯 About Me
 
-I am Abdulmalik Ololade, a highly dedicated and passionate DevOps engineer, driven by a profound enthusiasm for cybersecurity. I believe that continuous improvement is the key to staying ahead, and I am constantly exploring innovative approaches to security to make it an indispensable aspect across various industries.
+I am Yusuf Nasir Ahmad, a highly dedicated and passionate DevOps engineer, driven by a profound enthusiasm for autamation and data science. I believe that continuous improvement is the key to staying ahead, and I am constantly exploring innovative approaches to CI/CD autamtion to make it an indispensable aspect across various industries.
 
-My insatiable thirst for knowledge propels me to actively seek opportunities to expand my expertise and collaborate with like-minded DevOps and security enthusiasts. I firmly believe in the power of collaboration, and I am always open to learning from peers while generously sharing my own insights.
+My insatiable thirst for knowledge propels me to actively seek opportunities to expand my expertise and collaborate with like-minded DevOps and  enthusiasts. I firmly believe in the power of collaboration, and I am always open to learning from peers while generously sharing my own insights.
 
-With a strong foundation in cloud computing, DevOps, and security, I am well-equipped to bring immense value to any project or organization. My skills and dedication are readily available for exciting gigs, job opportunities, contracts, and projects where I can make a significant impact.
+With a strong foundation in cloud computing, DevOps, and data science, I am well-equipped to bring immense value to any project or organization. My skills and dedication are readily available for exciting gigs, job opportunities, contracts, and projects where I can make a significant impact.
 
 Feel free to reach out for professional collaborations or potential engagements.
 
