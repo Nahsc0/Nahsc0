@@ -11,7 +11,7 @@
 ---
 ## 👯 About Me
 
-I'm Yusuf Nasir Ahmad, a devoted Data Scientits, with a experience in automation, Cloud Computing and DevOps Engineering. I believe in constant improvement and innovative CI/CD automation. I crave knowledge, seek collaborations, and share insights. With strong cloud, DevOps, and data science skills, I'm ready to contribute value to projects. Let's connect for exciting opportunities!
+I'm Yusuf Nasir Ahmad, a devoted Data Scientist, with experience in automation, Cloud Computing and DevOps Engineering. I believe in constant improvement and innovative CI/CD automation. I crave knowledge, seek collaborations, and share insights. With strong cloud, DevOps, and data science skills, I'm ready to contribute value to projects. Let's connect for exciting opportunities!
 
     
 ---
