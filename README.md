@@ -1,5 +1,5 @@
 
-<h2> Hello fellow human! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hello Dear! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 ![tt](https://github.com/abdulmalik-devs/abdulmalik-devs/assets/106038656/6d545294-8773-42cb-8601-15234fbdcb5c)
 
@@ -11,7 +11,7 @@
 ---
 ## 👯 About Me
 
-I'm Yusuf Nasir Ahmad, a devoted DevOps engineer with a passion for automation and data science. I believe in constant improvement and innovative CI/CD automation. I crave knowledge, seek collaborations, and share insights. With strong cloud, DevOps, and data science skills, I'm ready to contribute value to projects. Let's connect for exciting opportunities!
+I'm Yusuf Nasir Ahmad, a devoted Data Scientits, with a experience in automation, Cloud Computing and DevOps Engineering. I believe in constant improvement and innovative CI/CD automation. I crave knowledge, seek collaborations, and share insights. With strong cloud, DevOps, and data science skills, I'm ready to contribute value to projects. Let's connect for exciting opportunities!
 
     
 ---
@@ -27,8 +27,9 @@ I'm Yusuf Nasir Ahmad, a devoted DevOps engineer with a passion for automation a
 ## 🔭 Past Experience
 | Company                         | Role                 | Employment Type     | Month/Years           |
 | :---                            | :----:               | :---:               | :---:                 |  
+| Clickon-Kaduna  DSFP            | Data Science         | Internship          | September 2023 - Present|
 | GreyMatter                      | DevOps Engineer      | Internship          | March 2023 - Present  |
-| Kaduna ICT Hub                  | Data Science         | Internship          | April 2022 - March 2023     |
+| Kaduna ICT Hub                  | Data Science         | Internship          | April 2022 - March 2023|
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nahsc0)](https://github.com/nahsc0/github-profile-trophy)
 
