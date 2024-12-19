@@ -9,26 +9,27 @@
 - Nasir🌟 is here 👋💻, in this world to live to the fullest.
 
 ---
-## 👯 About Me
+### 👯 About Me
 
-I'm Yusuf Nasir Ahmad, a devoted Data Scientist, with experience in automation, Cloud Computing and DevOps Engineering. I believe in constant improvement and innovative CI/CD automation. I crave knowledge, seek collaborations, and share insights. With strong cloud, DevOps, and data science skills, I'm ready to contribute value to projects. Let's connect for exciting opportunities!
-
+I'm Yusuf Nasir Ahmad, a passionate Data Scientist with expertise in Data Engineering, LLM and GenAI automation, and DevOps practices. I thrive on solving complex challenges by integrating advanced data science techniques with innovative automation solutions. With a solid foundation in cloud computing and CI/CD pipelines, I aim to drive efficiency and scalability in every project I undertake. Always eager to learn, collaborate, and share knowledge, I look forward to connecting with like-minded professionals and contributing to groundbreaking data science and AI initiatives. Let's explore impactful opportunities together! 
     
 ---
 
 ## 💬 Details
 - 🔭 I’m currently working on **CloudHub**
-- 🌱 I’m currently or looking forward to learning **Docker, CI/CD & Kubernetes**
+- 🌱 I’m currently or looking forward to learning **Docker, LLM and GenAI Automation**
 - 👨‍💻 All of my projects are available at [github.com/nahsc0](github.com/nahsc0)
-- 💬 Ask me about **DevOps and Data Science**
+- 💬 Ask me about **Data Science and Data Engineering**
 - ⚡ Fun fact **DevOps and data science have a friendly competition: DevOps boasts they can deploy code faster than ordering pizza, while data scientists claim they predict coffee shortages before they happen, keeping the code flowing and the ideas caffeinated!!**
 ---
 
 ## 🔭 Past Experience
 | Company                         | Role                 | Employment Type     | Month/Years           |
 | :---                            | :----:               | :---:               | :---:                 |  
-| Clickon-Kaduna  DSFP            | Data Science         | Internship          | September 2023 - Present|
-| GreyMatter                      | DevOps Engineer      | Internship          | March 2023 - Present  |
+| YandyTech Community             | AI/ML INstructor     | Part Time           | July 2024 - January 2027|
+| Natview Foundation (NFTI)       | Data Analyst         | Internship          | May 2024 - January 2024|
+| Clickon-Kaduna  DSFP            | Data Science         | Internship          | September 2023 - April2024|
+| GreyMatter                      | DevOps Engineer      | Internship          | March 2023 - August 2023  |
 | Kaduna ICT Hub                  | Data Science         | Internship          | April 2022 - March 2023|
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nahsc0)](https://github.com/nahsc0/github-profile-trophy)
